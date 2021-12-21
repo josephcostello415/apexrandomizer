@@ -69,7 +69,8 @@ async def loadout(ctx):
   await ctx.send(f'{ctx.author.mention} {weap1} and {weap2}')
 
 #Command for user lookup on Apex Legends Tracker
-##Default use: .stats {platform} {username}
+#Default use: .stats {platform} {username}
+#Platform labels: origin, psn, xbl
 @client.command()
 async def stats(ctx,platform, name):
   url = f'https://apex.tracker.gg/apex/profile/{platform}/{name}'
