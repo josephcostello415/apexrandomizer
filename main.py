@@ -80,4 +80,4 @@ async def stats(ctx,platform, name):
 #Run code to keep bot alive
 keep_alive()
 
-client.run('ODk1NTI5OTY1MDgzMjk1Nzg3.YV55RQ.M9m96rOZQVgy6KkvzZ0h0K3LoaU')
+client.run('Bot Token')
