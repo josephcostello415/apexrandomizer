@@ -5,13 +5,35 @@ From there, we expanded the idea to include a randomized weapon loadout, as well
 This bot was coded by myself, using Discord.py and Python 3.8.6
 
 # Commands
+<ul>
+<li><h2>.kc</h2>
+  <h4>Command for Random Location of King's Canyon</h4>
+  <p>Default use: .kc
+  </p></li>
 
-.we
+<li><h2>.oly</h2>
+  <h4>Command for Random Location of Olympus</h4>
+  <p>Default use: .oly
+  </p></li>
 
-.oly
+<li><h2>.we</h2>
+  <h4>Command for Random Location of World's Edge</h4>
+  <p>Default use: .we
+  </p></li>
 
-.kc
+<li><h2>.loadout</h2>
+  <h4>Command for Randomized Weapon Loadout</h4>
+  <p>Default use: .loadout
+  </p></li>
 
-.loadout
-
-.stats
+<li><h2>.stats</h2>
+  <h4>Command for user lookup on Apex Legends Tracker</h4>
+  <p>Default use: .stats {platform} {username}
+  <p>Platform labels:
+  <ul>
+    <li>origin</li>
+    <li>psn</li>
+    <li>xbl</li>
+  </ul></p>
+  </p></li>
+</ul>
